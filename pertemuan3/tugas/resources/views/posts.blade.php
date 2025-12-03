@@ -39,7 +39,7 @@
     @endif
 
     <footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f0f0;">
-    <p>Copyright ©Rival Anugrah 2025.</p>
+    <p>Copyright ©AdeRizqy.</p>
 </footer>
 
 
